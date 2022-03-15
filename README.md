@@ -18,6 +18,9 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
   <li>📝 I regularly write articles on <a href="https://medium.com/@girolamopinto1">Medium</a></li>
 </ul>
 
+<h3 align="left">Know about my skills and education:</h3>
+<a href="https://drive.google.com/drive/u/0/folders/1NUP8ygeHW4vZ89y9-6Lu8x8WgJoANiNO">📰 My Curriculum Vitae</a>
+
 <h3 align="left">📫 How to reach me:</h3> 
 <a><img align="left" src="https://user-images.githubusercontent.com/56441252/158370867-fbc21c0f-5b41-475e-a125-b40de43d2057.png" alt="girolamopinto" height="25" width="25" /> girolamopinto1@gmail.com</a>
 
