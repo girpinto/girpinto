@@ -49,12 +49,7 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
 <h3 align="left">My GitHub statistics:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girpinto&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="girpinto" /></p>
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girpinto&theme=codeSTACKr&show_icons=true&locale=en" alt="girpinto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girpinto&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="girpinto" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girpinto&theme=codeSTACKr&show_icons=true&locale=en" alt="girpinto" /></p>
 
 <!---
 girpinto/girpinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
