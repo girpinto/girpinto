@@ -19,7 +19,7 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
 </ul>
 
 <h3 align="left">📫 How to reach me:</h3> 
-<a href="girolamopinto1@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56441252/158370867-fbc21c0f-5b41-475e-a125-b40de43d2057.png" alt="girolamopinto" height="30" width="30" /></a>
+<a><img align="left" src="https://user-images.githubusercontent.com/56441252/158370867-fbc21c0f-5b41-475e-a125-b40de43d2057.png" alt="girolamopinto" height="25" width="25" /> girolamopinto1@gmail.com</a>
 
 
 <h3 align="left">⚡ Fun fact:</h3>
