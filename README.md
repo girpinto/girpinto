@@ -50,7 +50,7 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girpinto&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="girpinto"/></p>
-<p><br/></p>
+<p><br/><br/><br/><br/><br/><br/><br/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=girpinto&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="girpinto"/></p>
 
 <!---
