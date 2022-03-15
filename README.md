@@ -1,6 +1,6 @@
 👋 Hi, I’m Girolamo Pinto
 
-I'm a Computer Engineer and I work especially with frontend and backend app development. I love learning new programming languages and I love share my knowledge with other people. In this way I can help someone who is struggling with his work (I hope 😆). If I imagine that I helped just one person in the world it makes me feel very proud of myself. 
+I'm a Computer Engineering student and I work especially with frontend and backend app development. I love learning new programming languages and I love share my knowledge with other people. In this way I can help someone who is struggling with his work (I hope 😆). If I imagine that I helped just one person in the world it makes me feel very proud of myself. 
 
 I also love writing and often I write some articles on Medium, [take a look to my medium profile](https://medium.com/@girolamopinto1) you won't regret it. I also share some curiosities about technological world.
 
