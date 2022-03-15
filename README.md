@@ -1,22 +1,20 @@
-👋 Hi, I’m Girolamo Pinto
+<h1 align="center">Hi 👋, I'm Girolamo Pinto</h1>
+<h3 align="center">Coder</h3>
 
-I'm a Computer Engineering student and I work especially with frontend and backend app development. I love learning new programming languages and I love share my knowledge with other people. In this way I can help someone who is struggling with his work (I hope 😆). If I imagine that I helped just one person in the world it makes me feel very proud of myself. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/girolamopinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girolamopinto" height="30" width="40" /></a>
+<a href="https://fb.com/girolamopinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="girolamopinto" height="30" width="40" /></a>
+<a href="https://instagram.com/girolamopinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girolamopinto" height="30" width="40" /></a>
+<a href="https://medium.com/@girolamopinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@girolamopinto" height="30" width="40" /></a>
+</p>
 
-I also love writing and often I write some articles on Medium, [take a look to my medium profile](https://medium.com/@girolamopinto1) you won't regret it. I also share some curiosities about technological world.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=girpinto)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girpinto&show_icons=true&locale=en&layout=compact" alt="girpinto" /></p>
 
-- 👀 I’m interested also in : 
-   - Art
-   - Cinema
-   - Music
-   - Videogames
-- 🌱 I’m currently learning : Swift, SwiftUI, Python, C, C++, C# and JavaScript
-- 📫 How to reach me :
-   -  Instagram : [@girolamopinto](https://www.instagram.com/girolamopinto/)
-   -  Facebook : [Girolamo Pinto](https://www.facebook.com/girolamo.pinto/)
-   -  LinkedIn : [Girolamo Pinto](https://www.linkedin.com/jobs/search/?currentJobId=2431190098&keywords=sviluppo%20swift)
-   -  Medium : [@girolamopinto1](https://girolamopinto1.medium.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girpinto&show_icons=true&locale=en" alt="girpinto" /></p>
 
 <!---
 girpinto/girpinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
