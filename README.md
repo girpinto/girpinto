@@ -31,11 +31,11 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
 
 ### Medium articles
 <!-- BLOG-POST-LIST:START -->
+- [Input and Output in Python](https://girolamopinto1.medium.com/input-and-output-in-python-ad3c456c4e2c?source=rss-b18908656b3f------2)
 - [Python — Your first script](https://girolamopinto1.medium.com/python-your-first-script-6998f766b573?source=rss-b18908656b3f------2)
 - [10 geek girls that changed the world](https://girolamopinto1.medium.com/10-geek-girls-that-changed-the-world-f1891700fd55?source=rss-b18908656b3f------2)
 - [Bluetooth — A connection with Valhalla](https://girolamopinto1.medium.com/bluetooth-a-connection-with-valhalla-7405b70b71cf?source=rss-b18908656b3f------2)
 - [Install Python 3 on Microsoft Windows](https://girolamopinto1.medium.com/install-python-3-on-microsoft-windows-a2df9b48ef9f?source=rss-b18908656b3f------2)
-- [Swift Tips — Passing data between View Controllers while popping Second View Controller](https://girolamopinto1.medium.com/swift-tips-passing-data-between-view-controllers-while-popping-second-view-controller-7c2cfbace386?source=rss-b18908656b3f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
