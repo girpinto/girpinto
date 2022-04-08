@@ -31,11 +31,11 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
 
 ### Medium articles
 <!-- BLOG-POST-LIST:START -->
+- [Formatting in Python](https://girolamopinto1.medium.com/formatting-in-python-dff14824bf0f?source=rss-b18908656b3f------2)
 - [Handling errors in Python](https://girolamopinto1.medium.com/handling-errors-in-python-209f03cb6751?source=rss-b18908656b3f------2)
 - [Input and Output in Python](https://girolamopinto1.medium.com/input-and-output-in-python-ad3c456c4e2c?source=rss-b18908656b3f------2)
 - [Python — Your first script](https://girolamopinto1.medium.com/python-your-first-script-6998f766b573?source=rss-b18908656b3f------2)
 - [10 geek girls that changed the world](https://girolamopinto1.medium.com/10-geek-girls-that-changed-the-world-f1891700fd55?source=rss-b18908656b3f------2)
-- [Bluetooth — A connection with Valhalla](https://girolamopinto1.medium.com/bluetooth-a-connection-with-valhalla-7405b70b71cf?source=rss-b18908656b3f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
