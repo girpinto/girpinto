@@ -13,7 +13,7 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
 
 <h3 align="left">At the moment in my life:</h3>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/girpinto/Emotion_Detection_Python">Emotion Detection in Python</a>, to master Python and its frameworks</li>
+  <li>🔭 I’m currently working as a Firmware Engineer in Unina Corse Electric Team (a formula SAE team), to master my skills acquired in University and to satisfy my will to become a Fomula 1 Engineer</li>
   <li>🌱 I’m currently learning <strong>Python, C# and Unity</strong></li>
   <li>📝 I regularly write articles on <a href="https://medium.com/@girolamopinto1">Medium</a></li>
 </ul>
