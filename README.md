@@ -8,6 +8,7 @@ I'm a Computer Engineering student and I love sharing my knowledge with others i
   <li>Art 🎨</li>
   <li>Videogames 🎮</li>
   <li>Culinary arts 👨‍🍳</li>
+  <li>Formula 1 🏎️</li>
   <li>Music 🎵</li> 
 </ul>
 
