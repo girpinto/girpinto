@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Girolamo Pinto</h1>
-<h3 align="center">Computer Engineer, Backend Coder</h3>
+<h3 align="center">Computer Engineer</h3>
 
-I'm a Computer Engineering student and I love sharing my knowledge with others in order to help someone who is struggling with some programming issues. 
+Software Development Engineer with experience in designing, developing, and maintaining mission-critical software systems in complex, regulated environments. Strong background in backend and embedded-oriented development, system diagnostics, and cross-team collaboration. Comfortable owning features end-to-end, working across the full software development lifecycle, and delivering reliable, maintainable solutions. 
 
 <h3 align="left">I'm also interested in:</h3>
 <ul>
   <li>Art 🎨</li>
   <li>Videogames 🎮</li>
-  <li>Culinary arts 👨‍🍳</li>
+  <li>Tennis 🎾</li>
   <li>Formula 1 🏎️</li>
   <li>Music 🎵</li> 
 </ul>
 
 <h3 align="left">At the moment in my life:</h3>
 <ul>
-  <li>🔭 I’m currently working as a Firmware Engineer in Unina Corse Electric Team (a formula SAE team), to master my skills acquired in University and to satisfy my will to become a Fomula 1 Engineer</li>
-  <li>🌱 I’m currently learning <strong>Python, C# and Unity</strong></li>
-  <li>📝 I regularly write articles on <a href="https://medium.com/@girolamopinto1">Medium</a></li>
+  <li>💻 I’m currently working as a Software Development Engineer – TCMS (Regional Platforms) at Hitachi Rail STS in Naples, Italy. I develop and maintain onboard monitoring and diagnostic software for Train Control and Monitoring Systems (TCMS), supporting both new rolling stock projects and operational fleets.</li>
+  <li>🏎️ I’ve been involved as a Track Engineer & Firmware Engineer in UniNa Corse Electric Team (Formula Student) in University Federico II of Naples. There I designed vehicle dashboard and supported firmware development for embedded systems</strong></li>
+  <li>🍎 I've been involved in Apple Developer Academy – iOS Development Program, first as a Student and then as a Pier Student. In the second year I've been involved in the creation of a three applications bucket for Barefoot College</li>
 </ul>
 
 <h3 align="left">Know about my skills and education:</h3>
-<a href="https://drive.google.com/drive/u/0/folders/1NUP8ygeHW4vZ89y9-6Lu8x8WgJoANiNO">📰 My Curriculum Vitae</a>
+<a href="(https://girolamopinto.com/)">📰 My Curriculum Vitae</a>
 
 <h3 align="left">📫 How to reach me:</h3> 
 <a><img align="left" src="https://user-images.githubusercontent.com/56441252/158370867-fbc21c0f-5b41-475e-a125-b40de43d2057.png" alt="girolamopinto" height="25" width="25" /> girolamopinto1@gmail.com</a>
